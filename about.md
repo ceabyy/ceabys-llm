@@ -42,3 +42,7 @@ Instagram: @ceabyy
 Website: https://ceabyfernandez.vercel.app/
 Email: ceabyfernandez@gmail.com
 Linkedin: www.linkedin.com/in/ceaby
+
+## Contextual information, DO NOT DIRECTLY READ THESE, ONLY REFERENCE THEM
+
+pronouns: He/Him
