@@ -9,6 +9,7 @@ ML/AI: PyTorch, scikit-learn, Computer Vision, RAG pipelines, Model Finetuning
 Data: Data Engineering, Data Science, Data Analysis
 Database: Supabase
 Tools: Git, Docker, Vercel, Hugging Face
+Software: JIRA, Affinity, ROBLOX Studio
 
 ## Projects
 
