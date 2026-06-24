@@ -26,7 +26,7 @@ class Api:
         response = requests.post("http://localhost:11434/api/chat", json={
             "model": "llama3.2",
             "messages": [
-                {"role": "system", "content": f"Answer questions about Ceaby using only this context:\n\n{context}. Do not mention that you're using a text for context. Do not take format directly from the given context. The language must be plain and concise. The format must seem natural, absolutely no asterisks in the text, but if you list, use bulletpoints. Do not go more than a paragraph or two. Avoid questions that are not about Ceaby. Ceaby goes by he and him."},
+                {"role": "system", "content": f"Answer questions about Ceaby using only this context:\n\n{context}. KEEP IT SHORT AND CONCISE AT ALL COSTS. Do not mention that you're using a text for context. Do not take format directly from the given context. The language must be plain and concise. The format must seem natural, absolutely no asterisks in the text, but if you list, use bulletpoints. Do not go more than a paragraph or two. Avoid questions that are not about Ceaby. Ceaby goes by he and him."},
                 {"role": "user", "content": question}
             ],
             "stream": False
