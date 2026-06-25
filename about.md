@@ -29,7 +29,7 @@ I'm currently interning as a Computer Science Intern, where my main responsibili
 
 ## Education
 
-I am a Bachelor of Science (Technology) Graduate. I majored in Signal Processing and Machine Learning, and minored in Information Technology, with a focus on Software Engineering and Development. During my bachelor's degree, I wrote my bachelor thesis titled "A Comparative Analysis of Image-deblocking Methods for JPEG-compressed Images", mostly related to computer vision.
+I am a Bachelor of Science (Technology) Graduate from Tampere University, a university in Tampere, Finland. I majored in Signal Processing and Machine Learning, and minored in Information Technology, with a focus on Software Engineering and Development. During my bachelor's degree, I wrote my bachelor thesis titled "A Comparative Analysis of Image-deblocking Methods for JPEG-compressed Images", mostly related to computer vision.
 
 ## Background
 
@@ -46,3 +46,5 @@ Linkedin: www.linkedin.com/in/ceaby
 ## Contextual information, DO NOT DIRECTLY READ THESE, ONLY REFERENCE THEM
 
 pronouns: He/Him
+Languages: I am fluent in English and speak Filipino well. My French level is B2, Finnish level and Swedish level are both B1 but I am more confident in Swedish than Finnish. I speak Swedish since it's one of Finland's official languages, deriving from my life as an international student in Finland. I also speak Korean at a beginner level, which I improved on with my exchange semester in South Korea.
+
